@@ -38,27 +38,27 @@ const LoginForm = () => {
     };
 
     return (
-        <form onSubmit={handleSubmit} style={{ maxWidth: '400px',margin: '0 auto',padding: '20px',border: '1px solid #ccc',
-                borderRadius: '5px',boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)',backgroundColor: 'black',
+        <form onSubmit={handleSubmit} className='bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 p-10 rounded-md' style={{ maxWidth: '400px',margin: '0 auto',padding: '20px',border: '1px solid #ccc',
+                borderRadius: '15px', boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)'
             }}
         >
             <div style={{ marginBottom: '15px' }}>
-                <label htmlFor="email" style={{ display: 'block', marginBottom: '5px' }}>Email:</label>
-                <input type="email" id="email" name="email" required value={formData.email} onChange={handleInputChange}
-                    style={{ width: '100%', padding: '8px', marginBottom: '10px', boxSizing: 'border-box', }} />
+                <label htmlFor="email" style={{ display: 'block', marginBottom: '5px', color:'white', textAlign: 'left' ,fontSize: '20px'}}>Email:</label>
+                <input type="email" id="email" name="email" placeholder='Please enter your E-Mail' required value={formData.email} onChange={handleInputChange}
+                    style={{ width: '100%', padding: '8px', marginBottom: '10px', boxSizing: 'border-box', borderRadius:'10px' }} />
                 {errors.email && <span style={{ color: '#ff0000', fontSize: '14px', marginTop: '5px' }}>{errors.email}</span>}
             </div>
 
             <div style={{ marginBottom: '15px' }}>
-                <label htmlFor="password" style={{ display: 'block', marginBottom: '5px' }}>Password:</label>
-                <input type="password" id="password" name="password" value={formData.password} onChange={handleInputChange}
-                    required style={{ width: '100%', padding: '8px', marginBottom: '10px', boxSizing: 'border-box', }} />
+                <label htmlFor="password" style={{ display: 'block', marginBottom: '5px', color:'white',textAlign: 'left' ,fontSize: '20px' }}>Password:</label>
+                <input type="password" id="password" name="password" placeholder='Please enter your Password' value={formData.password} onChange={handleInputChange}
+                    required style={{ width: '100%', padding: '8px', marginBottom: '10px', boxSizing: 'border-box', borderRadius:'10px'}} />
                 {errors.password && <span style={{ color: '#ff0000', fontSize: '14px', marginTop: '5px' }}>{errors.password}</span>}
             </div>
 
             <button type="submit" style={{
                 backgroundColor: '#007bff', color: '#fff', padding: '10px', border: 'none',
-                borderRadius: '5px', cursor: 'pointer',
+                borderRadius: '10px', cursor: 'pointer', width: '88px', fontSize: '20px', textAlign: 'center'
             }}>
                 Login
             </button>
