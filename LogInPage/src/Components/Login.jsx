@@ -62,6 +62,12 @@ const LoginForm = () => {
             }}>
                 Login
             </button>
+            <button type="submit" style={{
+                backgroundColor: '#007bff', color: '#fff', padding: '10px', border: 'none',
+                borderRadius: '5px', cursor: 'pointer',
+            }}>
+                Login
+            </button>
         </form>
     );
 };
