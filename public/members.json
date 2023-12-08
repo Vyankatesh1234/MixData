@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Vyankatesh Kawarase",
+    "email": "vinkkawrase@gmail.com",
+    "job": "React Developer",
+    "org": "Optical Arc Pvt. Ltd.",
+    "empid": "OPA303",
+    "date": "5/10/2023"
+},
+{
+    "name": "Anant Tade",
+    "email": "anantt@gmail.com",
+    "job": "React Developer",
+    "org": "Optical Arc Pvt. Ltd.",
+    "empid": "OPA302",
+    "date": "05/09/2023"
+},
+{
+    "name": "Pranav Wasade",
+    "email": "pranavw@gmail.com",
+    "job": "React Developer",
+    "org": "Optical Arc Pvt. Ltd.",
+    "empid": "OPA304",
+    "date": "05/10/2023"
+},
+{
+    "name": "Shital S",
+    "email": "shitals@gmail.com",
+    "job": ".Net Developer",
+    "org": "Agile SoftSystem Pvt. Ltd.",
+    "empid": "ASS3022",
+    "date": "01/04/2023"
+},
+{
+  "name": "Prisidh Jagtap",
+  "email": "prasidh@gmail.com",
+  "job": "SQL Developer",
+  "org": "Aditya Birla Pvt. Ltd.",
+  "empid": "OPA303",
+  "date": "5/10/2023"
+},
+{
+  "name": "Mahesh Katkar",
+  "email": "maheshkatkar@talkd.com",
+  "job": "Performance Developer",
+  "org": "Talkd Pvt. Ltd.",
+  "empid": "OPA302",
+  "date": "05/09/2023"
+},
+{
+    "name": "Pratiksha Bonde",
+    "email": "pratiksha@talkd.com",
+    "job": "C++ Developer",
+    "org": "KKRC Pvt. Ltd.",
+    "empid": "KKRC102",
+    "date": "05/06/2023"
+},
+{
+    "name": "Kishor Tiruke",
+    "email": "kishort@gmail.com",
+    "job": "C++ Developer",
+    "org": "KKRC Pvt. Ltd.",
+    "empid": "KKRC102",
+    "date": "05/06/2023"
+},
+{
+    "name": "Sumedh Kamalapurkar",
+    "email": "SumedhKamalapurkar@opticalarc.com",
+    "job": "React Developer",
+    "org": "Optical Arc Pvt. Ltd.",
+    "empid": "OPC102",
+    "date": "05/06/2023"
+},
+{
+  "name": "Shraddha Salunkhe",
+  "email": "ShraddhaSalunkhe@opticalarc.com",
+  "job": "React Developer",
+  "org": "Optical Arc Pvt. Ltd.",
+  "empid": "OPA303",
+  "date": "5/10/2023"
+},
+{
+  "name": "Priyanka",
+  "email": "Priyanka@gmail.com",
+  "job": "React Developer",
+  "org": "Optical Arc Pvt. Ltd.",
+  "empid": "OPA302",
+  "date": "05/09/2023"
+},
+{
+    "name": "Kishor Tiruke",
+    "email": "kishort@gmail.com",
+    "job": "C++ Developer",
+    "org": "KKRC Pvt. Ltd.",
+    "empid": "KKRC102",
+    "date": "05/06/2023"
+},
+{
+  "name": "Vyankatesh Kawarase",
+  "email": "vinkkawrase@gmail.com",
+  "job": "React Developer",
+  "org": "Optical Arc Pvt. Ltd.",
+  "empid": "OPA303",
+  "date": "5/10/2023"
+},
+{
+  "name": "Anant Tade",
+  "email": "anantt@gmail.com",
+  "job": "React Developer",
+  "org": "Optical Arc Pvt. Ltd.",
+  "empid": "OPA302",
+  "date": "05/09/2023"
+},
+{
+    "name": "Kishor Tiruke",
+    "email": "kishort@gmail.com",
+    "job": "C++ Developer",
+    "org": "KKRC Pvt. Ltd.",
+    "empid": "KKRC102",
+    "date": "05/06/2023"
+},
+{
+  "name": "Vyankatesh Kawarase",
+  "email": "vinkkawrase@gmail.com",
+  "job": "React Developer",
+  "org": "Optical Arc Pvt. Ltd.",
+  "empid": "OPA303",
+  "date": "5/10/2023"
+},
+{
+  "name": "Anant Tade",
+  "email": "anantt@gmail.com",
+  "job": "React Developer",
+  "org": "Optical Arc Pvt. Ltd.",
+  "empid": "OPA302",
+  "date": "05/09/2023"
+}
+]
